@@ -1,2 +1,3 @@
 # lokal-chatgpt
 Schnelles, unbegrenztes ChatGPT, das keine Daten an OpenAi weitergibt. Fühl dich frei alles zu fragen....
+Verfügbar auf https://tchitop.github.io/lokal-chatgpt/
